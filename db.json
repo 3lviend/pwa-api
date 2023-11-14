@@ -1,0 +1,25 @@
+{
+"products": 
+  [
+    {"id":1,"name":"Ringtail cat","category":"Pink"},
+    {"id":2,"name":"Azara's zorro","category":"Pink"},
+    {"id":3,"name":"Collared lizard","category":"Aquamarine"},
+    {"id":4,"name":"Hornbill, southern ground","category":"Indigo"},
+    {"id":5,"name":"Kafue flats lechwe","category":"Teal"},
+    {"id":6,"name":"Rhea, gray","category":"Indigo"},
+    {"id":7,"name":"Canada goose","category":"Khaki"},
+    {"id":8,"name":"Buffalo, wild water","category":"Turquoise"},
+    {"id":9,"name":"Stork, yellow-billed","category":"Aquamarine"},
+    {"id":10,"name":"Dragon, netted rock","category":"Violet"},
+    {"id":11,"name":"Wolf, mexican","category":"Orange"},
+    {"id":12,"name":"Sulfur-crested cockatoo","category":"Aquamarine"},
+    {"id":13,"name":"Nyala","category":"Khaki"},
+    {"id":14,"name":"Sportive lemur","category":"Yellow"},
+    {"id":15,"name":"Campo flicker","category":"Orange"},
+    {"id":16,"name":"Common eland","category":"Aquamarine"},
+    {"id":17,"name":"Rat, arboral spiny","category":"Aquamarine"},
+    {"id":18,"name":"Long-billed cockatoo","category":"Goldenrod"},
+    {"id":19,"name":"Large cormorant","category":"Khaki"},
+    {"id":20,"name":"Sparrow, house","category":"Yellow"}
+  ]
+}
